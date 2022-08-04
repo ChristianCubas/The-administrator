@@ -1,0 +1,50 @@
+header {
+    background: rgb(0,35,255);
+    background: rgb(149,0,255);
+    background: rgb(0,142,255);
+    background: radial-gradient(circle, rgba(0,142,255,1) 0%, rgba(26,19,251,1) 100%);
+    color: #fff;
+    height: 153px;
+    text-align: center;
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+#hola{
+    font-size: 20px;
+    text-align: center;
+}
+
+#f{
+    background: #fb13f2;
+    height: 6px;
+}
+
+#f:hover{
+    background: #FF0000;
+}
+
+fieldset {
+    border: 12px solid;
+    border-color: #ffa600;
+}
+
+hr{
+    background: #FF0000;
+    height: 4px;
+}
+
+#vamos{
+    width: 680px;
+    height: 60px;
+    font-size: 30px;
+}
+
+label{
+    font-size: 30px;
+}
+
+#world{
+    height: 30px;
+    width: 36px;
+}
